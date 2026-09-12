@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/iyHV1VlTflQAAAAd/genshin-impact-genshin-impact-characters.gif" width="100%" />
+  <img src="./sio.gif" width="100%" />
 </p>
 
 ---
@@ -26,8 +26,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzahira-calista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cherry&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azzahira-calista&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cherry&hide_border=true&exclude=c++,cmake" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azzahira-calista&show_icons=true&theme=cherry&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzahira-calista&layout=compact&langs_count=6&theme=cherry&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 <p align="center">
