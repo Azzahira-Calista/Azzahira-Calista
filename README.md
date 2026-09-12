@@ -2,11 +2,11 @@
 <h3 align="center">Emerging Front-End Developer with a Passion for Game Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=500&lines=Building+cute+things+with+code+%F0%9F%8C%B8;Flutter+%7C+React+%7C+Vue+%7C+Next.js;Game+Dev+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/nxccQmb_0ksAAAAd/xiao-genshin-impact.gif" width="220">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azzahia-calista&label=Profile%20views&color=e75480&style=flat" alt="azzahia-calista" />
+  <img src="https://komarev.com/ghpvc/?username=azzahira-calista&label=Profile%20views&color=e75480&style=flat" alt="azzahira-calista" />
 </p>
 
 <p align="center">
@@ -15,11 +15,12 @@
 
 ---
 
-🌸 About Me
+### 🌸 About Me
 
 - 🎓 Student, currently exploring the world of front-end & game development
 - 💻 Comfortable across **Flutter, React, Vue, Next.js**, and diving into **Laravel**
 - 🎮 Also building things in **C# (Unity)** and **C**
+- 🎨 Really into design — Figma is my second home
 - 🌱 Always learning, always leveling up
 - 🌸 Aesthetic-driven dev — clean UI with a soft touch
 
@@ -36,7 +37,7 @@
 
 ---
 
-🌸 Connect with Me
+### 🌸 Connect with Me
 
 <div align="center">
   <a href="https://www.instagram.com/callzhira">
@@ -52,7 +53,7 @@
 
 ---
 
-🌸 Tech Stack
+### 🌸 Tech Stack
 
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
